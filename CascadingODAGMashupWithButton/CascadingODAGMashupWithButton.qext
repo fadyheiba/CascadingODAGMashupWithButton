@@ -1,0 +1,12 @@
+{
+	"type":"mashup",
+	"name":"CascadingODAGMashupWithButton",
+	"description":"Allows the user to interact with Cascading ODAG seamlessly, including the 1-click button.",
+	"author":"Fady Heiba",
+	"version": "1.0.0",
+	"homepage":"",
+	"keywords":"qlik-sense, visualization, mashup",
+	"license":"",
+	"repository":"",
+	"dependencies":{"qlik-sense":">=1.0.x"}
+}
